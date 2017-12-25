@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C
 A
 A
@@ -10,3 +11,10 @@ B
 C
 C
 
+=======
+jghjghjgjhghjgjkhghjgjgjkbnv
+jhgjkghjgkkjjk
+hjgjkgfkhjfjkh
+jhghjgkhjgkj
+hgkgkjhgkj:
+>>>>>>> 75df68733058f489d2ee2663d13b898c0716701e
